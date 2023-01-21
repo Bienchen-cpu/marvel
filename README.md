@@ -1,2 +1,2 @@
 # marvel
-Using Marvel Api to cretae a search and track application
+Using Marvel Api to create a search and track application
